@@ -1,5 +1,7 @@
 # buta7-nuxt.netlify.app
 
+[Nuxt\.js \+ Netlifyで爆速構築するサーバーレス開発入門 \- Qiita](https://qiita.com/isihigameKoudai/items/e3b136e9964f1d30d73d)
+
 ## Build Setup
 
 ```bash
