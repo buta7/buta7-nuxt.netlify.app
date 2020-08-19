@@ -1,4 +1,4 @@
-# buta7-nuxt
+# buta7-nuxt.netlify.app
 
 ## Build Setup
 
@@ -18,4 +18,4 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-# buta7-nuxt.netlify.app
+
