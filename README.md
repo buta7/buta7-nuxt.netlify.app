@@ -2,6 +2,8 @@
 
 [Nuxt\.js \+ Netlifyで爆速構築するサーバーレス開発入門 \- Qiita](https://qiita.com/isihigameKoudai/items/e3b136e9964f1d30d73d)
 
+ただデプロイしているだけなのでいずれ消してもよい(2020/9/3)
+
 ## Build Setup
 
 ```bash
